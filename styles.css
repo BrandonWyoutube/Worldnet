@@ -5,43 +5,31 @@ body {
 }
 
 /* Sign up, sign in page */
-#background {
-    background-image: url('https://lh3.googleusercontent.com/pw/ACtC-3eH_gMbI1I_QnNQVJmESpftFFqU75BclF01Le4q57W4E2Wb0CR1xUmeLfyhN7qjJ4oxbQVblLDnLQFHyCZY4k2bKLY4tUmXYru8EZGnyXcGBoofrFK0uT2lKb8XWOWH-wOBCGzVXo1itIdhQ6CgnhyH=w1920');
-    background-size: cover;
-    height: 100vh;
+#background-signup {
+    /* Add background image URL here */
 }
 
 /* Enter parent phone number page */
-#background {
-    background-image: url('https://lh3.googleusercontent.com/pw/ACtC-3du5oT4S3NU9_EYvIMpyi0CITikyAkXpQz2wrODplCv66-K0IxPcxpYoVcEehdZVW58zRoLkIOhKvEg87nLPhbchX2EjIZPdbR9KxRVFp0zZuXUqUPWcNM67BDTT30lF_EoG4E5_86Z4qH6Zjs7X96y=w1920');
-    background-size: cover;
-    height: 100vh;
+#background-parent {
+    /* Add background image URL here */
 }
 
 /* Age selection page */
-#background {
-    background-image: url('https://lh3.googleusercontent.com/pw/ACtC-3d6M5TpQl01cBxzvCbxSZ6sJ6wVAF0ASz9I2svNvff5HlwFZgN9E2PVz1B3EZV_R6oCmk8Q32jn0L9GQXW0yP9vm2u7du9vS1R5FCBQWmb3z8ELs2x1V7y_RtAs5rYn-w5qEJcB26yE1BWL9gBGoQKb=w1920');
-    background-size: cover;
-    height: 100vh;
+#background-age {
+    /* Add background image URL here */
 }
 
 /* App shut down downtime page */
-#background {
-    background-image: url('https://lh3.googleusercontent.com/pw/ACtC-3cBvoKrR5bE0HneqZyMwH7QnG-x-fCgtO_mVkxO2Ev6cm2VLrWmZyyFJrc-cdgYF-lbkbUEF3qZYFod9doJRZ5ulOaz3l7Z1ZAC9jWKSDTEe7Cyq1sttMzP2j2Rs_wJiDQ11fJJLXDoHLouYqGnUpxs=w1920');
-    background-size: cover;
-    height: 100vh;
+#background-downtime {
+    /* Add background image URL here */
 }
 
 /* Username and password page */
-#background {
-    background-image: url('https://lh3.googleusercontent.com/pw/ACtC-3dRXhyf4qCvDjnBbSVr2zUWVnC7wGTQlX9qGQwZbY8m0LWQcGzYvIOfsZYi8UwkmLCxumh7sW5sAWKBlf5tVezZeh4POh1KKe9y9-8zlYn26EO8zjDpLQ--xFkcZbsBx_DvczSXfPd9ffv0S1YLg4_9b=w1920');
-    background-size: cover;
-    height: 100vh;
+#background-login {
+    /* Add background image URL here */
 }
 
 /* Time limit page */
-#background {
-    background-image: url('https://lh3.googleusercontent.com/pw/ACtC-3eNYWZyxUMh8rM5HvMQNlgYYylrLF4bDEHn3OZD4lppX-5Fefx8ud5jvW8suyLeq7ngcsPevXlhB-XoZ1SNWqkRYmHWBXCiU8cuyN3pC7OnbYL7bBGAcB9U21vheeviF5o3vYHge2WJYnVVvBt-pfHCF=w1920');
-    background-size: cover;
-    height: 100vh;
+#background-time-limit {
+    /* Add background image URL here */
 }
