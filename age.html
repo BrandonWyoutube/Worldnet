@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,6 +12,19 @@
     </div>
     <div id="content">
         <!-- Age selection content -->
+        <h2>Select Child's Age Group</h2>
+        <p>Please select your child's age group:</p>
+        <form id="age-form">
+            <select id="age-group">
+                <option value="below13">Below 13</option>
+                <option value="13to17">13 - 17</option>
+                <option value="17to22">17 - 22</option>
+                <option value="22to29">22 - 29</option>
+                <option value="29to40">29 - 40</option>
+                <option value="40plus">40+</option>
+            </select>
+            <button type="submit">Submit</button>
+        </form>
     </div>
 
     <script src="app.js"></script>
