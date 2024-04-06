@@ -1,3 +1,4 @@
+/* General styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,30 +7,83 @@ body {
 
 /* Sign up, sign in page */
 #background-signup {
-    /* Add background image URL here */
+    background-image: url('https://github.com/BrandonWyoutube/Worldnet/raw/main/background-signup.jpg');
+    background-size: cover;
+    height: 100vh;
 }
 
 /* Enter parent phone number page */
 #background-parent {
-    /* Add background image URL here */
+    background-image: url('https://github.com/BrandonWyoutube/Worldnet/raw/main/background-signup.jpg');
+    background-size: cover;
+    height: 100vh;
 }
 
 /* Age selection page */
 #background-age {
-    /* Add background image URL here */
+    background-image: url('https://github.com/BrandonWyoutube/Worldnet/raw/main/background-signup.jpg');
+    background-size: cover;
+    height: 100vh;
 }
 
 /* App shut down downtime page */
 #background-downtime {
-    /* Add background image URL here */
+    background-image: url('https://github.com/BrandonWyoutube/Worldnet/raw/main/background-signup.jpg');
+    background-size: cover;
+    height: 100vh;
 }
 
 /* Username and password page */
 #background-login {
-    /* Add background image URL here */
+    background-image: url('https://github.com/BrandonWyoutube/Worldnet/raw/main/background-signup.jpg');
+    background-size: cover;
+    height: 100vh;
 }
 
 /* Time limit page */
 #background-time-limit {
-    /* Add background image URL here */
+    background-image: url('https://github.com/BrandonWyoutube/Worldnet/raw/main/background-signup.jpg');
+    background-size: cover;
+    height: 100vh;
 }
+
+/* Form styling */
+form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+h2 {
+    text-align: center;
+    }
+    
